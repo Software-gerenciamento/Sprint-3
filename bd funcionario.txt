@@ -1,0 +1,16 @@
+
+CREATE table Funcionario (
+	
+id_funcionario  int primary key,
+   
+ nome varchar(254),
+  
+  cpf varchar(254),
+    
+cargo varchar(254),
+   
+ endereco varchar(254), 
+    
+telefone  varchar(254)
+
+);
